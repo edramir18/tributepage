@@ -2,6 +2,12 @@
     font-family: 'Niconne', cursive;
     font-size: 5em;
 }
-.container-fluid {
+.imagen-principal {
+    background-color: white;
+}
+.imagen-inline {
+    display: inline !important;
+}
+.container {
     background-color: silver;
 }
